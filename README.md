@@ -1,0 +1,4 @@
+# Random Password Generator
+This is a Python program that creates a simple graphical user interface (GUI) for generating random passwords. It uses the tkinter library for the GUI components. Users can select the password strength (Weak, Medium, or Strong), specify the password length, and click the "Generate" button to generate a password, which is displayed in an Entry field. There's also a "Copy" button to copy the generated password to the clipboard using the pyperclip library. The password strength determines the character set used for generating the password, with Weak using lowercase letters, Medium adding uppercase letters, and Strong including numbers and special characters in addition to letters.
+
+<img width="210" alt="Random-code-generator" src="https://github.com/SaumyaaPrajapat/Calculator/assets/103128269/09ca1d81-5c5e-4cb1-98c6-1e0ec566fde6">
